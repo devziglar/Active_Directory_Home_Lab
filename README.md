@@ -70,25 +70,36 @@ Created department-based security groups:
 ### 1. Active Directory Structure
 Shows overall domain structure with OUs (Departments, Employees, Workstation)
 
+![AD Structure](ad-structure.png)
+
 ---
 
 ### 2. Department Security Groups
 Shows created security groups inside Departments OU
+
+![Department Groups](ad-groups.png)
+![Department Groups](ad-securitydetail.png)
 
 ---
 
 ### 3. Domain Controller
 Shows the domain controller under Domain Controllers
 
+![Domain Controller](domain-controller.png)
+
 ---
 
 ### 4. Employee User Accounts
 Shows multiple created users inside Employees OU
 
+![Users](ad-users.png)
+
 ---
 
 ### 5. Domain-Joined Workstation
 Shows workstation successfully joined to domain
+
+![Workstation](workstation.png)
 
 ---
 
